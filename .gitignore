@@ -224,3 +224,6 @@ __marimo__/
 mlruns/
 mlflow.db
 mlartifacts/
+
+# dataset
+data/
